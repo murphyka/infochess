@@ -1,0 +1,23 @@
+{
+    "rows": 8,
+    "cols": 8,
+    "pieces": [
+        {"type": "king", "team": "white", "position": [2, 0]},
+        {"type": "king", "team": "white", "position": [3, 0]},
+        {"type": "king", "team": "white", "position": [4, 0]},
+        {"type": "king", "team": "white", "position": [5, 0]},
+        {"type": "rook", "team": "white", "position": [7, 0]},
+        {"type": "bishop", "team": "white", "position": [0, 0]},
+        {"type": "pawn", "team": "white", "position": [3, 1]},
+        {"type": "pawn", "team": "white", "position": [4, 1]},
+
+        {"type": "king", "team": "black", "position": [2, 7]},
+        {"type": "king", "team": "black", "position": [3, 7]},
+        {"type": "king", "team": "black", "position": [4, 7]},
+        {"type": "king", "team": "black", "position": [5, 7]},
+        {"type": "rook", "team": "black", "position": [0, 7]},
+        {"type": "bishop", "team": "black", "position": [7, 7]},
+        {"type": "pawn", "team": "black", "position": [3, 6]},
+        {"type": "pawn", "team": "black", "position": [4, 6]}
+    ]
+}
