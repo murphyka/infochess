@@ -36,7 +36,7 @@ parser.add_argument('--mode', type=str, default='pvp', choices=['pvp', 'pve'],
                     help='pvp = two humans, pve = human (black) vs AI (white)')
 parser.add_argument('--ai', type=str, default='vismax', choices=['random', 'vismax'],
                     help='AI agent type for pve mode')
-parser.add_argument('--board_config', type=str, default='configs/8x8_1R_1B_2P.json')
+parser.add_argument('--board_config', type=str, default='configs/8x8_1R_1B_2P_randking.json')
 parser.add_argument('--max_turns', type=int, default=20)
 args = parser.parse_args()
 
