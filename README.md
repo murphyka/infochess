@@ -21,13 +21,13 @@ This yields a **fully quantifiable objective for information acquisition and con
 
 ---
 
-Paper: [arXiv](arxiv.org) (to appear in the Adaptive and Learning Agents Workshop at AAMAS 2026)
+Paper: [arXiv](http://arxiv.org/abs/2604.15373) (to appear in the Adaptive and Learning Agents Workshop at AAMAS 2026)
 
 If you use this code, please cite:
 ```bibtex
 @inproceedings{murphy2026infochess,
   title={InfoChess: A Game of Adversarial Inference and a Laboratory for Quantifiable Information Control},
   author={Murphy, Kieran},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2604.15373,
   year={2026}
 }
