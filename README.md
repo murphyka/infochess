@@ -19,6 +19,8 @@ The design intentionally strips away standard chess complexities to isolate info
 After movement, players perform inference: score increases with the probability mass assigned to the true (oracle-evaluated) opponent king position. 
 This yields a **fully quantifiable objective for information acquisition and concealment**.
 
+*We have a demo where you can play the game: [https://infochess-production.up.railway.app/](https://infochess-production.up.railway.app/).  Built by [Andrew Lezaja](https://www.linkedin.com/in/andrew-lezaja/).*
+
 ---
 
 Paper: [arXiv](http://arxiv.org/abs/2604.15373) (to appear in the Adaptive and Learning Agents Workshop at AAMAS 2026)
